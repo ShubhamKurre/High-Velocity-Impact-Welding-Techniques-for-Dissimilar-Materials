@@ -44,4 +44,11 @@ When two plates collide at several hundred m/s, **plastic flow and jet formation
 
 ---
 
+## 📄 Project Report
+
+You can read the full detailed report here:  
+[📘 **High_Velocity_Impact_Welding_Techniques**](HVIW_Techniques.pdf)
+
+
+
 ## 📂 Repository Structure
